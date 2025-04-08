@@ -1,5 +1,5 @@
 # EP240414a
-This repository contains the EP data and optical data of EP240414a in the paper entitled A fast X-ray transient from a weak relativistic jet associated with a type Ic-BL supernova.
+This repository contains the EP data and spectra data of EP240414a in the paper entitled A fast X-ray transient from a weak relativistic jet associated with a type Ic-BL supernova.
 
 WXT.zip contains the WXT light curve in T100 (WXT_lc_T100, in Figure 2) and the spectral data T90 (WXT_spec_T90, in Extended Data Figure 1) of EP240414a.<p>
 For data in the two files, they are <p>
